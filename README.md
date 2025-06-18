@@ -1,4 +1,4 @@
 # CS 124
 
-Data structures and algorithms course taken Spring 2024. Rigorous proof based problem sets. Hired as a teaching fellow for Spring 2025.
+Proof based DSA course taken at Harvard Spring 2024. Hired as a teaching fellow for Spring 2025.
 
